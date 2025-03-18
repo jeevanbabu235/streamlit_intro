@@ -37,7 +37,7 @@ def get_groq_response(question):
 st.title("Simple Search App")
 
 # Input box for user query
-query = st.text_input("Enter your query:")
+query = st.text_input("Please enter your query:")
 
 # Button to get response
 if st.button("Search"):
