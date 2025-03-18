@@ -47,4 +47,4 @@ if st.button("Search"):
         # Display the response
         st.write("Response:", response)
     else:
-        st.write("Please enter a query.")
+        st.write("Please enter a question.")
